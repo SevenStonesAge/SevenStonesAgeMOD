@@ -1,1 +1,5 @@
-{}
+{
+  "key.seven_stones_age.stones_gui_keybind": "Stones GUI Keybind",
+  "itemGroup.tablore_stones": "Lore Stones",
+  "itemGroup.tablore_gauntlets": "Lore Gauntlets"
+}

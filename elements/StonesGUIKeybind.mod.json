@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Y",
+    "keyBindingName": "Stones GUI Keybind",
+    "keyBindingCategoryKey": "ui",
+    "onKeyPressed": {
+      "name": "OpenStonesGUI"
+    }
+  }
+}

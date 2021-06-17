@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Lore Gauntlets",
+    "icon": {
+      "value": "Items.NETHERITE_SWORD"
+    },
+    "showSearch": false
+  }
+}
